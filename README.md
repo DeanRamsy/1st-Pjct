@@ -1,2 +1,2 @@
 # 1st-Pjct
-My first G-H project
+Dean's first G-H project
